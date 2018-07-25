@@ -2,7 +2,7 @@
 2. deform
 3. cylinder
 4. diameter
-5. begrudge [
+5. begrudge [begrudging, begrudgingly不情愿地]
 6. insolence
 7. serviette
 8. cosemopolitan
