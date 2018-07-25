@@ -2,4 +2,4 @@
 2. deform
 3. cylinder
 4. diameter
-5. begrudge, begrudging, begrudgingly
+5. begrudge [1. 吝惜 2. to ~ sb sth], begrudging, begrudgingly
